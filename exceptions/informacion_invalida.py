@@ -1,0 +1,2 @@
+class InformacionInvalida(Exception):
+    pass
